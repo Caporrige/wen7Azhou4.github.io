@@ -1,0 +1,46 @@
+mode: auto
+
+banner:
+  enable: true
+  title:
+    - Wen7
+    - and 
+    - Zhou4
+  cloud:
+    enable: true
+    color: "white"
+  go_down:
+    enable: true
+    icon: icon-arrow-down-s-line
+
+notice:
+  enable: true
+  content: My first try of building a website.
+
+bg_image: 
+  enable: true
+  dark: /images/020a1051d89f40bd92ad4ce455860ff5.jpg 
+    ### need to fix why "url" do not work
+  opacity: 1 
+
+search:
+  modal: true
+  bg_image: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/stars-timing-2.jpg
+
+fireworks: 
+  enable: true
+  colors:
+    - "102, 167, 221"
+    - "62, 131, 225"
+    - "33, 78, 194"
+
+cursor:
+  enable: false
+  default: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/pointer.cur
+  pointer: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/link.cur
+  text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
+
+
+
+
+

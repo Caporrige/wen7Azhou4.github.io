@@ -41,6 +41,9 @@ cursor:
   text: https://cdn.jsdelivr.net/gh/YunYouJun/cdn/css/md-cursors/text.cur
 
 
+albums:
+  enable: true
+
 
 
 
